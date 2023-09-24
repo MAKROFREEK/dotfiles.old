@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="kitty.desktop" score="144" last-seen="1693698968"/>
+    <application id="org.gnome.tweaks.desktop" score="0" last-seen="1693696478"/>
+    <application id="gnome-display-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Software.desktop" score="20" last-seen="1693696921"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="3" last-seen="1693693509"/>
+    <application id="software-properties-gtk.desktop" score="1" last-seen="1693692852"/>
+    <application id="gnome-control-center.desktop" score="2" last-seen="1693696533"/>
+    <application id="org.gnome.Calendar.desktop" score="6" last-seen="1693694086"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="9" last-seen="1693693185"/>
+    <application id="org.gnome.Nautilus.desktop" score="23" last-seen="1693698725"/>
+    <application id="code_code.desktop" score="322" last-seen="1693697275"/>
+    <application id="snap-store_ubuntu-software.desktop" score="0" last-seen="1693693393"/>
+    <application id="ocs-url.desktop" score="1" last-seen="1693693383"/>
+    <application id="libreoffice-impress.desktop" score="6" last-seen="1693696145"/>
+    <application id="nl.hjdskes.gcolor3.desktop" score="3" last-seen="1693696868"/>
+    <application id="firefox_firefox.desktop" score="198" last-seen="1693698939"/>
+    <application id="gnome-network-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1693696902"/>
+    <application id="gnome-system-monitor.desktop" score="0" last-seen="1693696520"/>
+    <application id="gnome-software-local-file.desktop" score="0" last-seen="0"/>
+    <application id="timeshift-gtk.desktop" score="3" last-seen="1693697185"/>
+    <application id="org.gnome.Extensions.desktop" score="0" last-seen="1693692693"/>
+  </context>
+</application-state>

@@ -1,0 +1,78 @@
+{
+    "overrides": [
+        {
+            "wmClass": "jetbrains-toolbox",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Com.github.amezin.ddterm",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Com.github.donadigo.eddy",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Conky",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Gnome-initial-setup",
+            "mode": "float"
+        },
+        {
+            "wmClass": "gnome-calculator",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Guake",
+            "mode": "float"
+        },
+        {
+            "wmClass": "zoom",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Spotify",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Gnome-calculator",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Ulauncher",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Totem",
+            "wmTitle": "01. Ramirez - 100 Bars & Gunnin'",
+            "mode": "float"
+        },
+        {
+            "wmClass": "PrismLauncher",
+            "wmTitle": "Prism Launcher 7.2",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Totem",
+            "wmTitle": "01. Make Them Suffer - 27",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Timeshift-gtk",
+            "wmTitle": "Settings",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Totem",
+            "wmTitle": "07. blink-182 - Adam's Song",
+            "mode": "float"
+        },
+        {
+            "wmClass": "Code",
+            "wmTitle": "Keyboard Shortcuts - udemy-solutions-java - Visual Studio Code",
+            "mode": "float"
+        }
+    ]
+}
