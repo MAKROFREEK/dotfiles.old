@@ -15,12 +15,12 @@ dest_pictures="$HOME/Pictures/"
 dest_docs="$HOME/Documents/"
 
 # Source folders (adjust these paths accordingly)
-usr="usr/"
-etc="etc/"
-local="local/"
-config="config/"
-pictures="pictures/"
-docs="documents/"
+usr="dir/usr/"
+etc="dir/etc/"
+local="dir/local/"
+config="dir/config/"
+pictures="dir/pictures/"
+docs="dir/documents/"
 
 # Copy folders to destination directories
 cp -r "$usr" "$dest_usr"
