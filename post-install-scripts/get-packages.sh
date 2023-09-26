@@ -8,5 +8,5 @@ echo "Downloading package: $package"
 # For example, if you're using apt-get on Ubuntu, you would use: apt-get install -y "$package"
 # For yum on CentOS, you would use: yum install -y "$package"
 # Modify the command as needed for your package manager
-sudo pacman -S "$package"
+yay -S "$package"
 done < packages.x86_64
