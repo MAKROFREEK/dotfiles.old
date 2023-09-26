@@ -1,6 +1,7 @@
 # Dotfiles Post-Installation Script
 
-Welcome to the Dotfiles Post-Installation Script repository! This script is designed to streamline the setup process for your Linux environment after a fresh installation. It automates the installation of essential packages, configures system settings, and more.
+
+Welcome to my Dotfiles Post-Installation Script repository! This script is my trusted companion for setting up my Linux environment exactly the way I like it after a fresh installation. It's designed to automate the installation of packages, configure system settings, and handle various tasks, all tailored to my specific needs.
 
 ## Table of Contents
 
