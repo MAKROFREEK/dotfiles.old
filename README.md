@@ -38,17 +38,18 @@ bash
 
     Follow the on-screen instructions (if any) to complete the installation.
 
-Scripts
+## Scripts
 
     get-packages.sh: Installs essential packages and dependencies.
     gnome-settings.sh: Configures GNOME desktop settings.
     install-timer.sh: Sets up timers for specific tasks.
     packages.x86_64: Lists the packages to be installed.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have any improvements or additional scripts to add, please fork this repository and create a pull request.
-License
+
+## License
 
 This project is licensed under the MIT License.
 
