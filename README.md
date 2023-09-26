@@ -1,7 +1,7 @@
 # Dotfiles Post-Installation Script
 
 
-Welcome to my Dotfiles Post-Installation Script repository! This script is my trusted companion for setting up my Linux environment exactly the way I like it after a fresh installation. It's designed to automate the installation of packages, configure system settings, and handle various tasks, all tailored to my specific needs.
+Welcome to my Dotfiles Post-Installation Script repository! This script is my trusted companion for setting up my GNOME desktop environment exactly the way I like it after a fresh Linux installation. It's designed to automate the installation of packages, configure GNOME settings, and handle various tasks, all tailored to my specific GNOME setup. 
 
 ## Table of Contents
 
@@ -9,14 +9,14 @@ Welcome to my Dotfiles Post-Installation Script repository! This script is my tr
 - [Usage](#usage)
 - [Scripts](#scripts)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
-- **Automated Package Installation**: The script installs packages and dependencies required for your workflow.
-- **System Configuration**: It sets up system preferences and configurations to match your preferences.
-- **Documentation**: Includes scripts for various tasks such as managing documents and settings.
-- **Customization**: You can easily customize the script to suit your specific needs.
+- **Personalized GNOME Setup**: This script reflects my unique GNOME desktop preferences and setups, making it truly personal.
+- **Efficiency**: It saves me valuable time by automating package installations, GNOME configuration, and more.
+- **Documentation**: I can easily manage my documents and settings within the GNOME environment using the included scripts.
+- **Adaptability**: I can customize the script whenever I need to adapt to changes in my GNOME workflow.
+
 
 ## Usage
 
@@ -27,17 +27,10 @@ Welcome to my Dotfiles Post-Installation Script repository! This script is my tr
 
     Navigate to the post-install-scripts directory:
 
-    bash
+   cd dotfiles-post-install/post-install-scripts
 
-cd dotfiles-post-install/post-install-scripts
+   sudo bash run.sh
 
-Run the desired script. For example, to install packages, use:
-
-bash
-
-    ./get-packages.sh
-
-    Follow the on-screen instructions (if any) to complete the installation.
 
 ## Scripts
 
@@ -49,13 +42,4 @@ bash
 ## Contributing
 
 Contributions are welcome! If you have any improvements or additional scripts to add, please fork this repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
-vbnet
-
-
-You can copy and paste this template into your README.md file on GitHub and replace placeholders like `yourusername` with your actual GitHub username and add more details as needed. This template provides a basic structure to help users understand your dotfiles post-installation script and how to use it.
 
